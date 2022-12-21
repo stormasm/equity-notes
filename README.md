@@ -23,6 +23,7 @@ note there is no amzn, fb, goog
 [portfolio composition](https://investor.vanguard.com/investment-products/etfs/profile/vug#portfolio-composition)
 
 * appl 13.12%
+
 * msft 11.04%
 * goog  6.61%
 * amzn  4.85%
