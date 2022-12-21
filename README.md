@@ -43,3 +43,49 @@ with much less concentration on apple and microsoft
 
 the above list is approximately 50% of the holdings   
 11/30/22 last time updated
+
+## spy
+##### S&P 500 SPDR
+
+[portfolio composition](https://www.barchart.com/etfs-funds/quotes/SPY/constituents)
+
+* aapl  6.24%
+* msft  5.66%
+* amzn  2.42%
+* brk.b 1.68%
+
+* the following stocks are all above 1% and below 2%
+* googl
+* united health
+* jnj
+* xom
+* nvda
+* tsla
+* jpm   
+* proctor and gamble
+* visa
+* home depot
+
+no exposure to facebook
+
+## xlk
+#### S&P 500 Technology Sector SPDR
+
+[portfolio composition](https://www.barchart.com/etfs-funds/quotes/xlk/constituents)
+
+* aapl 22.26%
+* msft 21.95%
+* nvda  4.97%
+
+no amazon or google
+
+## xlc
+##### S&P 500 Communication Sector SPDR
+
+[portfolio composition](https://www.barchart.com/etfs-funds/quotes/xlc/constituents)
+
+* google     23.00%
+* facebook   15.58%
+* walt disney 9.53%
+* tmobile     4.93%
+* activision blizzard 4.68%
