@@ -107,10 +107,7 @@ the above list is approximately 50% of the holdings
 
 no exposure to facebook
 
-### References
-
-* [vgd vgt portfolio composition](https://investor.vanguard.com/investment-products/etfs/profile/vgt#portfolio-composition)
-* [vgd vug portfolio composition](https://investor.vanguard.com/investment-products/etfs/profile/vug#portfolio-composition)
+### Industry Groups
 
 * B Materials
 * C Communications
@@ -123,3 +120,8 @@ no exposure to facebook
 * U Utilities
 * V Health Care
 * Y Consumer Discretionary
+
+### References
+
+* [vgd vgt portfolio composition](https://investor.vanguard.com/investment-products/etfs/profile/vgt#portfolio-composition)
+* [vgd vug portfolio composition](https://investor.vanguard.com/investment-products/etfs/profile/vug#portfolio-composition)
