@@ -13,5 +13,5 @@
 
 the above list is approximately 50% of the holdings
 
-note there is no amzn, fb, goog
-11/30/22
+note there is no amzn, fb, goog    
+11/30/22 last time updated
