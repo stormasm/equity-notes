@@ -1,11 +1,19 @@
 
+## summary
+
+both vgt and xlk have more than 20% of their portfolio in apple as well as
+a high percentage in microsoft. no google or amazon exposure.
+
+vug lower percentage of apple and microsoft 
+while google and amazon take up about 10%
+
 ## vgt
 ##### vgd information technology etf
 
 [barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/vgt/constituents)
 
-* aapl  21.34%
-* msft  17.68%
+* aapl  over 20% apple
+* msft  over 15% microsoft
 * nvda   4.13%
 * v      3.25%
 * ma     3.01%
@@ -16,6 +24,18 @@ the above list is approximately 50% of the holdings
 
 note there is no amzn, fb, goog   
 11/30/22 last time updated
+
+
+## xlk
+#### S&P 500 Technology Sector SPDR
+
+[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/xlk/constituents)
+
+* aapl 22.26%
+* msft 21.95%
+* nvda  4.97%
+
+no amazon or google
 
 ## vug
 ##### vgd growth etf
@@ -44,6 +64,22 @@ with much less concentration on apple and microsoft
 the above list is approximately 50% of the holdings   
 11/30/22 last time updated
 
+
+## xlc
+##### S&P 500 Communication Sector SPDR
+
+[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/xlc/constituents)
+
+* google     23.00%
+* facebook   15.58%
+* walt disney 9.53%
+* tmobile     4.93%
+* activision blizzard 4.68%
+* vz 4.58%
+* comcast 4.51%
+* att  4.47%
+* nflx 4.20%
+
 ## spy
 ##### S&P 500 SPDR
 
@@ -67,32 +103,6 @@ the above list is approximately 50% of the holdings
 * home depot
 
 no exposure to facebook
-
-## xlk
-#### S&P 500 Technology Sector SPDR
-
-[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/xlk/constituents)
-
-* aapl 22.26%
-* msft 21.95%
-* nvda  4.97%
-
-no amazon or google
-
-## xlc
-##### S&P 500 Communication Sector SPDR
-
-[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/xlc/constituents)
-
-* google     23.00%
-* facebook   15.58%
-* walt disney 9.53%
-* tmobile     4.93%
-* activision blizzard 4.68%
-* vz 4.58%
-* comcast 4.51%
-* att  4.47%
-* nflx 4.20%
 
 ### References
 
