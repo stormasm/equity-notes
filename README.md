@@ -89,7 +89,6 @@ the above list is approximately 50% of the holdings
 * msft  5.66%
 * amzn  2.42%
 * brk.b 1.68%
-
 * the following stocks are all above 1% and below 2%
 * googl
 * united health
