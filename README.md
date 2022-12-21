@@ -8,8 +8,19 @@ vug lower percentage of apple and microsoft
 while google and amazon take up about 10%
 
 * vgt and xlk have more than 40% in aapl and msft
+* vug aapl and msft combined make up over 24% of the vug
 * qqq aapl and msft combined make up over 23% of the qqq
+* spy aapl and msft combined make up about 12% of the spy
 * vti aapl and msft combined make up about 10% of the vti
+
+| symbol  | aapl, msft |
+| ------ | ----- |
+| vgt | 40% |
+| xlk | 40% |
+| vug | 24% |
+| qqq | 23% |
+| spy | 12% |
+| vti | 10% |
 
 ## vgt
 ##### vgd information technology etf
