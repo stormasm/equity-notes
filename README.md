@@ -7,6 +7,10 @@ a high percentage in microsoft. no google or amazon exposure.
 vug lower percentage of apple and microsoft 
 while google and amazon take up about 10%
 
+* vgt and xlk have more than 40% in aapl and msft
+* qqq aapl and msft combined make up over 23% of the qqq
+* vti aapl and msft combined make up about 10% of the vti
+
 ## vgt
 ##### vgd information technology etf
 
