@@ -2,7 +2,7 @@
 ## vgt
 ##### vgd information technology etf
 
-[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/vgd/constituents)
+[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/vgt/constituents)
 
 * aapl  21.34%
 * msft  17.68%
