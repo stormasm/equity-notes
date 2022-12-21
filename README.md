@@ -18,6 +18,8 @@ note there is no amzn, fb, goog
 
 ### vug vgd growth etf
 
+[portfolio composition](https://investor.vanguard.com/investment-products/etfs/profile/vug#portfolio-composition)
+
 * appl 13.12%
 * msft 11.04%
 * goog  6.61%
