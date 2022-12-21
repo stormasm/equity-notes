@@ -2,7 +2,7 @@
 ## vgt
 ##### vgd information technology etf
 
-[portfolio composition](https://investor.vanguard.com/investment-products/etfs/profile/vgt#portfolio-composition)
+[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/vgd/constituents)
 
 * aapl  21.34%
 * msft  17.68%
@@ -20,10 +20,9 @@ note there is no amzn, fb, goog
 ## vug
 ##### vgd growth etf
 
-[portfolio composition](https://investor.vanguard.com/investment-products/etfs/profile/vug#portfolio-composition)
+[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/vug/constituents)
 
 * appl 13.12%
-
 * msft 11.04%
 * goog  6.61%
 * amzn  4.85%
@@ -48,7 +47,7 @@ the above list is approximately 50% of the holdings
 ## spy
 ##### S&P 500 SPDR
 
-[portfolio composition](https://www.barchart.com/etfs-funds/quotes/SPY/constituents)
+[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/SPY/constituents)
 
 * aapl  6.24%
 * msft  5.66%
@@ -72,7 +71,7 @@ no exposure to facebook
 ## xlk
 #### S&P 500 Technology Sector SPDR
 
-[portfolio composition](https://www.barchart.com/etfs-funds/quotes/xlk/constituents)
+[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/xlk/constituents)
 
 * aapl 22.26%
 * msft 21.95%
@@ -83,7 +82,7 @@ no amazon or google
 ## xlc
 ##### S&P 500 Communication Sector SPDR
 
-[portfolio composition](https://www.barchart.com/etfs-funds/quotes/xlc/constituents)
+[barchart portfolio composition](https://www.barchart.com/etfs-funds/quotes/xlc/constituents)
 
 * google     23.00%
 * facebook   15.58%
@@ -94,3 +93,8 @@ no amazon or google
 * comcast 4.51%
 * att  4.47%
 * nflx 4.20%
+
+### References
+
+* [vgd vgt portfolio composition](https://investor.vanguard.com/investment-products/etfs/profile/vgt#portfolio-composition)
+* [vgd vug portfolio composition](https://investor.vanguard.com/investment-products/etfs/profile/vug#portfolio-composition)
