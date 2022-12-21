@@ -89,3 +89,7 @@ no amazon or google
 * walt disney 9.53%
 * tmobile     4.93%
 * activision blizzard 4.68%
+* vz 4.58%
+* comcast 4.51%
+* att  4.47%
+* nflx 4.20%
