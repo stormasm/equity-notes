@@ -13,7 +13,7 @@ Below we describe the likely impact of this reclassification on concerned sector
 
 ## Sector ETFs in Focus
 
-###Finance & Information Technology
+### Finance & Information Technology
 
 Financial Select Sector SPDR Fund XLF takes the spotlight.Eight S&P 500 stocks from the data processing & outsourced services subindustry will move to the newly created transaction and payment processing services subindustry in the financials sector.
 
