@@ -4,7 +4,7 @@
 both vgt and xlk have more than 20% of their portfolio in apple as well as
 a high percentage in microsoft. no google or amazon exposure.
 
-vug lower percentage of apple and microsoft 
+vug lower percentage of apple and microsoft
 while google and amazon take up about 10%
 
 * vgt and xlk have more than 40% in aapl and msft
@@ -117,20 +117,6 @@ the above list is approximately 50% of the holdings
 * home depot
 
 no exposure to facebook
-
-### Industry Groups
-
-* B Materials
-* C Communications
-* E Energy
-* F Financials
-* I Industrials
-* K Technology
-* P Consumer Staples
-* RE Real Estate
-* U Utilities
-* V Health Care
-* Y Consumer Discretionary
 
 ### References
 
