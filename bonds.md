@@ -23,4 +23,4 @@
 ### Emerging Markets
 | | |
 | - | - |
-| [vwob](https://finance.yahoo.com/quote/VWOB/) | Vanguard Emerging Markets Government Bond Index Fund |
+| [vwob](https://finance.yahoo.com/quote/VWOB/) | [Vanguard Emerging Markets Government Bond Index] Fund(https://investor.vanguard.com/investment-products/etfs/profile/vwob) |
