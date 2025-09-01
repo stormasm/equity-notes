@@ -18,7 +18,7 @@
 
 | | |
 | - | - |
-| [vcrb](https://finance.yahoo.com/quote/VCRB/) | Vanguard Core Bond ETF |
+| [vcrb](https://finance.yahoo.com/quote/VCRB/) | [Vanguard Core Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vcrb) |
 
 ### Emerging Markets
 | | |
