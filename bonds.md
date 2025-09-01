@@ -11,7 +11,7 @@
 
 | | |
 | - | - |
-| [vclt](https://finance.yahoo.com/quote/VCLT/) | Vanguard Long-Term Corporate Bond Index Fund ETF |
+| [vclt](https://finance.yahoo.com/quote/VCLT/) | [Vanguard Long-Term Corporate Bond Index Fund ETF](https://investor.vanguard.com/investment-products/etfs/profile/vclt) |
 | [blv](https://finance.yahoo.com/quote/BLV/) | Vanguard Long-Term Bond Fund |
 
 ### Intermediate Term Bonds
