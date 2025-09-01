@@ -5,7 +5,7 @@
 | | |
 | - | - |
 | [tlt](https://finance.yahoo.com/quote/TLT/) | iShares 20+ Year Treasury Bond ETF |
-| [vglt](https://finance.yahoo.com/quote/VGLT/) | Vanguard Long-Term Treasury Index Fund ETF |
+| [vglt](https://finance.yahoo.com/quote/VGLT/) | [Vanguard Long-Term Treasury Index Fund ETF](https://advisors.vanguard.com/investments/products/vglt/vanguard-long-term-treasury-etf) |
 
 ### Long Term Bonds
 
