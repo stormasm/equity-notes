@@ -22,6 +22,7 @@
 | [vcrb](https://finance.yahoo.com/quote/VCRB/) | [Vanguard Core Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vcrb) |
 | [vcit](https://finance.yahoo.com/quote/VCIT/) | [Vanguard Intermediate-Term Corporate Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vcit) |
 | [vtc](https://finance.yahoo.com/quote/VTC/) | [Vanguard Total Corporate Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vtc)
+| [vceb](https://finance.yahoo.com/quote/VCEB/) | [Vanguard ESG U.S. Corporate Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vceb) |
 
 ### Emerging Markets
 | | |
