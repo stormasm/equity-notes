@@ -19,6 +19,7 @@
 | | |
 | - | - |
 | [vcrb](https://finance.yahoo.com/quote/VCRB/) | [Vanguard Core Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vcrb) |
+| [vcit](https://finance.yahoo.com/quote/VCIT/) | [Vanguard Intermediate-Term Corporate Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vcit) |
 
 ### Emerging Markets
 | | |
