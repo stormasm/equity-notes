@@ -30,3 +30,4 @@
 | | |
 | - | - |
 | [vgms](https://finance.yahoo.com/quote/VGMS/) | [Vanguard Multi-Sector Income Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vgms) |
+| [edv](https://finance.yahoo.com/quote/EDV/) | [Vanguard Extended Duration Treasury ETF](https://investor.vanguard.com/investment-products/etfs/profile/edv)
