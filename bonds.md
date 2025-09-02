@@ -37,4 +37,4 @@
 
 ### References
 
-- ESG Means screened for certain environmental, social and corporate governance (ESG) criteria.
+- ESG means screened for certain environmental, social and corporate governance (ESG) criteria.
