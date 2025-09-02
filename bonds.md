@@ -13,6 +13,7 @@
 | - | - |
 | [vclt](https://finance.yahoo.com/quote/VCLT/) | [Vanguard Long-Term Corporate Bond Index Fund ETF](https://investor.vanguard.com/investment-products/etfs/profile/vclt) |
 | [blv](https://finance.yahoo.com/quote/BLV/) | [Vanguard Long-Term Bond Fund](https://investor.vanguard.com/investment-products/etfs/profile/blv) |
+| [edv](https://finance.yahoo.com/quote/EDV/) | [Vanguard Extended Duration Treasury ETF](https://investor.vanguard.com/investment-products/etfs/profile/edv)
 
 ### Intermediate Term Bonds
 
@@ -32,4 +33,3 @@
 | | |
 | - | - |
 | [vgms](https://finance.yahoo.com/quote/VGMS/) | [Vanguard Multi-Sector Income Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vgms) |
-| [edv](https://finance.yahoo.com/quote/EDV/) | [Vanguard Extended Duration Treasury ETF](https://investor.vanguard.com/investment-products/etfs/profile/edv)
