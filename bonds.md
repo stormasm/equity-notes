@@ -34,3 +34,7 @@
 | | |
 | - | - |
 | [vgms](https://finance.yahoo.com/quote/VGMS/) | [Vanguard Multi-Sector Income Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vgms) |
+
+### References
+
+- ESG Means screened for certain environmental, social and corporate governance (ESG) criteria.
