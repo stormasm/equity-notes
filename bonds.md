@@ -24,3 +24,9 @@
 | | |
 | - | - |
 | [vwob](https://finance.yahoo.com/quote/VWOB/) | [Vanguard Emerging Markets Government Bond Index Fund](https://investor.vanguard.com/investment-products/etfs/profile/vwob) |
+
+### No Category
+
+| | |
+| - | - |
+| [vgms](https://finance.yahoo.com/quote/VGMS/) | [Vanguard Multi-Sector Income Bond ETF](https://investor.vanguard.com/investment-products/etfs/profile/vgms) |
