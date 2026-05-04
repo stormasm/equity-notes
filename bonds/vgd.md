@@ -18,6 +18,15 @@ Performance Targets: VPLS targets an annual alpha of 75 basis points, while VCRB
 Usage Examples:
 
 - VCRB is best for investors seeking a foundation for their fixed-income portfolio with a high-quality bias and lower fees.
-- VPLS is suited for investors seeking higher potential returns through active management, who are comfortable with higher risks.Synonyms/Related Terms:VCRB: Vanguard Core Bond ETF, Core Bond Portfolio, Investment-Grade Bond ETF.VPLS: Vanguard Core-Plus Bond ETF, Core-Plus Fund, Actively Managed Bond ETF.
+- VPLS is suited for investors seeking higher potential returns through active management, who are comfortable with higher risks.
+
+Synonyms/Related Terms:
+
+- VCRB: Vanguard Core Bond ETF, Core Bond Portfolio, Investment-Grade Bond ETF.
+- VPLS: Vanguard Core-Plus Bond ETF, Core-Plus Fund, Actively Managed Bond ETF.
 
 Note: Both funds were launched in December 2023 and are actively managed, meaning they aim to outperform their respective benchmarks rather than just track them
+
+### References
+
+- [Dec 7, 2023: Vanguard Expands ETF Lineup with Two Active Bond ETFs](https://corporate.vanguard.com/content/corporatesite/us/en/corp/who-we-are/pressroom/press-release-vanguard-expands-etf-lineup-with-two-active-bond-etfs-120723.html)
