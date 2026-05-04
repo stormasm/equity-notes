@@ -25,7 +25,9 @@ Synonyms/Related Terms:
 - VCRB: Vanguard Core Bond ETF, Core Bond Portfolio, Investment-Grade Bond ETF.
 - VPLS: Vanguard Core-Plus Bond ETF, Core-Plus Fund, Actively Managed Bond ETF.
 
-Note: Both funds were launched in December 2023 and are actively managed, meaning they aim to outperform their respective benchmarks rather than just track them
+Note:
+
+Both funds were launched in December 2023 and are actively managed, meaning they aim to outperform their respective benchmarks rather than just track them
 
 ### References
 
