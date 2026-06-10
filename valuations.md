@@ -1,5 +1,7 @@
 
 
+### Value of one share if purchased at the IPO price
+
 | Company | Year Public | value of 1 share |
 | ------ | ----------- | ---- |
 |  google  | 2004   |  7k |
@@ -11,3 +13,7 @@
 | microsoft | 1986 | 120k |
 | walmart | 1970 | 586k |
 | berkshire | 1960 | 731k |
+
+---
+
+last updated June 10, 2026
