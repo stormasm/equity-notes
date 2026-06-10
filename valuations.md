@@ -1,6 +1,10 @@
 
 
-### Value of one share if purchased at the IPO price
+## Value of one share if purchased at the IPO price
+
+---
+
+### June 10, 2026
 
 | Company | Year Public | value of 1 share |
 | ------ | ----------- | ---- |
