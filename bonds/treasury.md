@@ -16,9 +16,9 @@ Improved Liquidity: Scaling up the buyback size helps smooth out liquidity and r
 
 The U.S. Department of the Treasury buys back long-term debt through scheduled secondary market repurchase operations. It uses cash from its general account—often funded by issuing shorter-term bills—to buy back older, less liquid ("off-the-run") nominal coupon securities and TIPS in the 10-to-30-year maturity sectors.
 
-### How the Buyback Process WorksReverse Auctions:
+### How the Buyback Process Works
 
-The Treasury holds competitive multi-price reverse auctions through a system where primary dealers submit offers to sell specific long-term securities back to the government.
+Reverse Auctions: The Treasury holds competitive multi-price reverse auctions through a system where primary dealers submit offers to sell specific long-term securities back to the government.
 
 Targeting Maturities: Operations focus specifically on longer-duration buckets (like 10-to-20-year and 20-to-30-year segments) to support market liquidity.
 
