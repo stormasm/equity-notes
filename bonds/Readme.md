@@ -1,4 +1,13 @@
 
+### How bond funds work when interest rates spike
+
+When interest rates spike, a bond fund's price drops immediately, but its stated yield does not stay the same—it actually starts adjusting upward right away because the fund's internal market value falls while its underlying coupon payments remain fixed
+
+#### Price vs. Yield in a Bond Fund
+
+- The Price Drop: The net asset value (NAV) or price of the bond fund drops the next day (or intraday) to reflect the lower market value of its older, lower-paying holdings
+- The Yield Adjustment: Because yield is calculated using the current market price (annual income divided by price), a lower fund price immediately increases the fund's current yield or SEC yield metrics for new buyers
+- The Income Reality: The actual cash dividends distributed to you do not instantly jump up. The fund continues holding older bonds that pay low coupon rates. Over time, as older bonds mature or get sold and the fund buys new, higher-rate bonds, your cash distribution income will gradually rise
 
 ### Treasury Notes
 
